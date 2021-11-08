@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Week 2 - JavaScript\\Udemy JavaScript Bible"
+		},
+		{
+			"path": "..\\..\\Week 2 - JavaScript\\Udemy Bootstrap"
+		},
+		{
+			"path": "..\\..\\Week 2 - JavaScript\\bootstrap_sandbox_starter"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\HTML Website Assignment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Landing Page Assignment"
+	}
+}
